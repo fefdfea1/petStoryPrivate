@@ -1,6 +1,6 @@
 ﻿# Pawstory 개인정보처리방침
 
-반려동물 성장 기록 앱 **Pawstory**(Android, `com.pawstory.app`)의 개인정보처리방침을 게시하는 저장소입니다.
+반려동물 성장 기록 앱 **Pawstory**(Android, `com.pawstory.petdiary`)의 개인정보처리방침을 게시하는 저장소입니다.
 
 - 공개 주소: https://fefdfea1.github.io/petStoryPrivate/
 - 문의: fefdfeas@gmail.com
